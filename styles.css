@@ -1,0 +1,57 @@
+/* Ensure full-page coverage */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Light gray background for better visibility */
+}
+
+/* Scene container takes full screen */
+#scene-container {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+/* Control buttons container */
+#controls {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 15px;
+  z-index: 10;
+}
+
+/* Button styling */
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: #00d1d1;
+  color: black;
+  transition: all 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #008b8b;
+  color: white;
+}
+
+/* Disabled button styling */
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
