@@ -13,14 +13,23 @@ Polygon Creator is a web-based tool built using Three.js that allows users to cr
 - **Reset Scene**: Clear all polygons and start fresh.
 - **Smooth Controls**: Pan and zoom support with Orthographic Camera for easy navigation.
 
+### Polygon Home Page
+![Creating a Polygon](screenshots/Home_scene.png)
+
 ### Creating a Polygon
-![Creating a Polygon](screenshots/create_polygon.png)
+![Creating a Polygon](screenshots/PolygonVertices.png)
+
+### Polygon Marked With all vertices
+![Creating a Polygon](screenshots/PolygonWithAllVertices.png)
+
+### Complete Polygon
+![Creating a Polygon](screenshots/PolygonComplete.png)
 
 ### Copying a Polygon
-![Copying a Polygon](screenshots/copy_polygon.png)
+![Copying a Polygon](screenshots/CopiedPolygon.png)
 
 ### Reset Scene
-![Reset Scene](screenshots/reset_scene.png)
+![Reset Scene](screenshots/Reset_scene.png)
 
 ## Setup
 
@@ -53,5 +62,5 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 
 ## Contact
 
-For any inquiries or issues, please contact [asifmohdt2020@gmail.com](mailto:asifmohdt2020@gmail.com).
+For any inquiries or issues, please contact [asif.mohd@campusuvce.in](mailto:asif.mohd@campusuvce.in).
 
