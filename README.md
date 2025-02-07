@@ -56,9 +56,6 @@ Polygon Creator is a web-based tool built using Three.js that allows users to cr
 ### Reset Scene
 - Click **Reset** to clear all polygons and restart.
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and submit a pull request.
 
 ## Contact
 
