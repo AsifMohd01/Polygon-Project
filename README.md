@@ -37,8 +37,8 @@ Polygon Creator is a web-based tool built using Three.js that allows users to cr
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/polygon-creator.git
-    cd polygon-creator
+    git clone https://github.com/AsifMohd01/Polygon-Project
+    cd Polygon-Project
     ```
 2. **Run the project:**
     - Open the `index.html` file in a browser.
